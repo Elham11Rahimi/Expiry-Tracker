@@ -4,7 +4,7 @@
 
 ## 🎬 Demo
 
-[![Watch the demo](demo.png)](https://www.youtube.com/watch?v=1YP4cBeMPqY)
+[![Watch the demo](Demo/demo.png)](https://www.youtube.com/watch?v=1YP4cBeMPqY)
 
 
 ## Inspiration
